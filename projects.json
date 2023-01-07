@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://semihbsy.github.io/project1/",
+      "git": "https://github.com/SemihBsy/project1",
+      "image": "https://i.imgur.com/Gj00jIA.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://riddler.onrender.com/",
+      "git": "https://github.com/SemihBsy/Project-2-riddle",
+      "image": "https://i.imgur.com/92B5Trr.png"
+    }
+]
